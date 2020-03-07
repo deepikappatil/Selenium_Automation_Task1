@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="15460" started-at="2020-03-07T22:25:28 MEZ" finished-at="2020-03-07T22:25:44 MEZ">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="15460" started-at="2020-03-07T22:25:28 MEZ" finished-at="2020-03-07T22:25:44 MEZ">
+      <class name="com.selenium.search.automation.TestSearch">
+        <test-method status="PASS" signature="invokeBrowser()[pri:0, instance:com.selenium.search.automation.TestSearch@71bbf57e]" name="invokeBrowser" is-config="true" duration-ms="6373" started-at="2020-03-07T22:25:28 MEZ" finished-at="2020-03-07T22:25:35 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokeBrowser -->
+        <test-method status="PASS" signature="verifySearch()[pri:0, instance:com.selenium.search.automation.TestSearch@71bbf57e]" name="verifySearch" duration-ms="6971" started-at="2020-03-07T22:25:35 MEZ" finished-at="2020-03-07T22:25:42 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearch -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.selenium.search.automation.TestSearch@71bbf57e]" name="closeBrowser" is-config="true" duration-ms="2074" started-at="2020-03-07T22:25:42 MEZ" finished-at="2020-03-07T22:25:44 MEZ">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.selenium.search.automation.TestSearch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
